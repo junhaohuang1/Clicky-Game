@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "blackchaos.jpg",
+    "clicked" : false
+  },
+  {
+    "id": 2,
+    "image": "blackrose.jpg",
+    "clicked" : false
+  },
+  {
+    "id": 3,
+    "image": "slifer.jpg",
+    "clicked" : false
+  },
+  {
+    "id": 4,
+    "image": "darkmagician.jpg",
+    "clicked" : false
+  },
+  {
+    "id": 5,
+    "image": "poly.jpg",
+    "clicked" : false
+  },
+  {
+    "id": 6,
+    "image": "quarsar.jpg",
+    "clicked" : false
+  },
+  {
+    "id": 7,
+    "image": "redeyes.jpg",
+    "clicked" : false
+  },
+  {
+    "id": 8,
+    "image": "stardust.jpg",
+    "clicked" : false
+  },
+  {
+    "id": 9,
+    "image": "utopia.jpg",
+    "clicked" : false
+  },
+  {
+    "id": 10,
+    "image": "blueeyes.jpg",
+    "clicked" : false
+  },
+  {
+    "id": 11,
+    "image": "ultimate.jpg",
+    "clicked" : false
+  },
+  {
+    "id": 12,
+    "image": "darkmagiciangirl.jpg",
+    "clicked" : false
+  }
+]
